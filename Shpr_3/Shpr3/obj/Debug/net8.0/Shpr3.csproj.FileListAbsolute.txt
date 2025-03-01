@@ -1,0 +1,15 @@
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\bin\Debug\net8.0\Shpr3.exe
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\bin\Debug\net8.0\Shpr3.deps.json
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\bin\Debug\net8.0\Shpr3.runtimeconfig.json
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\bin\Debug\net8.0\Shpr3.dll
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\bin\Debug\net8.0\Shpr3.pdb
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.AssemblyInfoInputs.cache
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.AssemblyInfo.cs
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.csproj.CoreCompileInputs.cache
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.sourcelink.json
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.dll
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\refint\Shpr3.dll
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.pdb
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\Shpr3.genruntimeconfig.cache
+C:\Users\alexa\RiderProjects\ShabloniProektirovaniya\Shpr_3\Shpr3\obj\Debug\net8.0\ref\Shpr3.dll
