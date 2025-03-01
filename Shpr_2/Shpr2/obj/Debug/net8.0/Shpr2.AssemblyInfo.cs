@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shpr2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69d24061e822bc7df024b967d929c0080f63b9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a18ce1690f3d591ea79549a243370ceaf5c9232")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shpr2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shpr2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
