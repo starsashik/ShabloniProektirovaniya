@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RandomNumberPlugin/1.0.0": {
+        "dependencies": {
+          "FactoryPlugin": "1.0.0"
+        },
+        "runtime": {
+          "RandomNumberPlugin.dll": {}
+        }
+      },
+      "FactoryPlugin/1.0.0": {
+        "runtime": {
+          "FactoryPlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomNumberPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\RiderProjects\\ShabloniProektirovaniya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD3B6FD6-7E6F-4663-870A-F6005CAE60BA}|Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj|c:\\users\\alexa\\riderprojects\\shabloniproektirovaniya\\shpr_1\\randomnumberplugin\\randomnumberplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD3B6FD6-7E6F-4663-870A-F6005CAE60BA}|Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj|solutionrelative:shpr_1\\randomnumberplugin\\randomnumberplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomNumberPlugin",
+              "DocumentMoniker": "C:\\Users\\alexa\\RiderProjects\\ShabloniProektirovaniya\\Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj",
+              "RelativeDocumentMoniker": "Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj",
+              "ToolTip": "C:\\Users\\alexa\\RiderProjects\\ShabloniProektirovaniya\\Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj",
+              "RelativeToolTip": "Shpr_1\\RandomNumberPlugin\\RandomNumberPlugin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T14:53:54.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
